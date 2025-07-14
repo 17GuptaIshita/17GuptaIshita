@@ -15,19 +15,17 @@
 - Writing clean, type-safe code with **TypeScript**
 
 > 💡 Forever curious, always learning. I believe great software is built with empathy, collaboration, and a dash of creativity.
+---
+### My Portfolio
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-%F0%9F%93%9C-informational?style=flat&logo=vercel&logoColor=white&color=blue)](https://my-portfolio-ishitas-projects-f2da73e9.vercel.app/)
 ---
 
 ### 📎 Connect with Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%F0%9F%93%9C-informational?style=flat&logo=vercel&logoColor=white&color=blue)](https://my-portfolio-ishitas-projects-f2da73e9.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%231877F2.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishitagupta79/)
 
 ---
-
-### 📊 GitHub Stats
-
-![Ishita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=17GuptaIshita&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
 
 ### 🔥 GitHub Streak
 
