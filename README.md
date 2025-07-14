@@ -1,6 +1,6 @@
 <div align="center">
-  <h1 style="color:#00bfff;">Hi 👋, I'm Prateek Bhandari</h1>
-  <h3>A Passionate C++ Developer & Problem Solver</h3>
+  <h1 style="color:#00bfff;">Hi 👋, I'm Ishita Gupta</h1>
+  <h3>A Passionate MERN Stack Developer & Problem Solver</h3>
 </div>
 
 <p align="center">
