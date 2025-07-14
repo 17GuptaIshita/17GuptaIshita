@@ -26,9 +26,15 @@
 ---
 
 ### 📊 GitHub Stats
-![Ishita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=17GuptaIshita&show_icons=true&theme=tokyonight)
+
+![Ishita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=17GuptaIshita&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
+
+### 🔥 GitHub Streak
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=17GuptaIshita&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ### 💻 Most Used Languages
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=17GuptaIshita&layout=compact&theme=tokyonight)
 
 ---
