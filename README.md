@@ -1,56 +1,67 @@
-# 👋 Hey there, I'm Ishita Gupta!
+<div align="center">
+  <h1 style="color:#00bfff;">Hi 👋, I'm Prateek Bhandari</h1>
+  <h3>A Passionate C++ Developer & Problem Solver</h3>
+</div>
 
-🚀 A passionate **MERN Stack Developer** who loves building modern, full-stack web applications that are clean, fast, and functional.
-
-## 💻 Tech I'm Confident With:
-- **Frontend:** React.js, HTML5, CSS3, JavaScript (ES6+), TypeScript, Tailwind CSS
-- **Backend:** Node.js, Express.js, REST APIs, GraphQL
-- **Database:** MongoDB, PostgreSQL
-- **Other Tools:** Git, GitHub, Postman, VS Code
-
-## 🎨 What I Love Doing:
-- Designing **beautiful & responsive UIs** with modern frameworks and design systems
-- Developing robust **backends** that scale and handle real-world traffic
-- Working with **GraphQL** and **REST** APIs to build flexible and efficient data layers
-- Writing clean, type-safe code with **TypeScript**
-
-> 💡 Forever curious, always learning. I believe great software is built with empathy, collaboration, and a dash of creativity.
----
-### My Portfolio
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-%F0%9F%93%9C-informational?style=flat&logo=vercel&logoColor=white&color=blue)](https://my-portfolio-ishitas-projects-f2da73e9.vercel.app/)
----
-
-### 📎 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%231877F2.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishitagupta79/)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Competitive+Programmer;C%2B%2B+Developer;DSA+%7C+CP+%7C+Leetcode+%7C+GFG;Always+learning+new+things" alt="Typing SVG" />
+</p>
 
 ---
 
-### 🔥 GitHub Streak
+### 🌟 About Me
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=17GuptaIshita&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-### 💻 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=17GuptaIshita&layout=compact&theme=tokyonight)
+- 🔭 Currently exploring **Graph Algorithms, CP & System Design**
+- 📚 Learning **Advanced C++, OS, DBMS, and low-level design**
+- 💬 Ask me about **STL, DSA, or Codeforces rants 😄**
+- 🛠️ Code playground → [My GitHub Repos](https://github.com/bhandariprateek64?tab=repositories)
+- ⚡ Fun fact: I debug more than I breathe 😅
 
 ---
 
-✨ *Let’s turn complex ideas into elegant digital experiences.*  
-❤️ Open to collaboration, learning, and building cool stuff together!
+### 🚀 Tech & Tools
 
-<!--
-**17GuptaIshita/17GuptaIshita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/DSA-FE7A16?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bhandariprateek64&show_icons=true&theme=radical&count_private=true" height="180" /> &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=bhandariprateek64&theme=radical" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhandariprateek64&layout=compact&theme=radical" height="180" />
+</p>
+
+---
+
+### 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/prateekbhandari" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a> &nbsp;
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bhandariprateek64&label=Profile+Views&color=blueviolet&style=flat-square" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00CED1&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!;Happy+coding+%F0%9F%9A%80" alt="Typing Footer" />
+</p>
