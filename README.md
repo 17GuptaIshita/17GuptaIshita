@@ -3,14 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;Passionate+about+Frontend;Loves+Debugging;Crafting+Clean+UI;Developing+Robust+APIs" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="https://holopin.io/@17guptaishita">
-    <img src="https://holopin.me/17guptaishita" width="100" />
-  </a>
-  <br>
-  <b>Hacktoberfest '25 Contributor</b>
-</p>
-
 
 A passionate <b>MERN Stack Developer</b> who loves building full-stack web applications that are not just functional, but beautiful too.I have a deep interest in crafting modern, responsive UIs using frameworks. Whether it's pixel-perfect frontend design or architecting robust backend APIs, I thrive at both ends of the stack.
 
@@ -26,7 +18,15 @@ A passionate <b>MERN Stack Developer</b> who loves building full-stack web appli
 </a> </p>
 
 ---
+### 🛠️ Hacktoberfest'25 Contributor
+<p align="center">
+  <a href="https://holopin.io/@17guptaishita">
+    <img src="https://holopin.me/17guptaishita" style="width:100%; height:auto;" />
+  </a>
+  <br>
+  </p>
 
+---
 ### 💻 Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
