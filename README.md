@@ -1,4 +1,4 @@
-<h1 align="center"><i>Hello, I'm Ishita Gupta</i> 🎀</h1>
+<h1 align="center"><i>Hello, I'm Ishita Gupta</i> 💁‍♀️</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;Passionate+about+Frontend;Loves+Debugging;Crafting+Clean+UI;Developing+Robust+APIs" alt="Typing SVG" />
 </p>
