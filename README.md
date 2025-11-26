@@ -18,7 +18,7 @@ A passionate <b>MERN Stack Developer</b> who loves building full-stack web appli
 </a> </p>
 
 ---
-### 🛠️ Hacktoberfest'25 Contributor
+### 🛠️ Super Contributer - Hacktoberfest'25
 <p align="center">
   <a href="https://holopin.io/@17guptaishita">
     <img src="https://holopin.me/17guptaishita" style="width:100%; height:auto;" />
